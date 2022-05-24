@@ -1,3 +1,5 @@
+import 'reflect-metadata';
+
 import { Router } from 'express';
 
 import { authenticationRouter } from './authentication.routes';
